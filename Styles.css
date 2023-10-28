@@ -1,0 +1,45 @@
+.h1 {
+    background-color: orange;
+    padding: 1px;
+    margin: 1px;
+    text-align: center;
+}
+
+.div1 {
+background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 0 4px 6px rgb(0, 0, 0, 0.1);
+}
+
+.input {
+    background-color: white;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100%;
+    margin: 0  auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn {
+   background-color: orange; 
+   border-radius: 4px;
+   font-weight: bold;
+   color: white;
+}
+
+.lbl {
+    font-size: 20px;
+    font-weight: bolder;
+    color: blue;
+}
+
+div h3 {
+    display: inline; /* Set the display property to inline */
+    margin: 0; /* Remove any default margin */
+    padding: 0; /* Remove any default padding */
+}
