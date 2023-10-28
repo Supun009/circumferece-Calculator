@@ -1,3 +1,2 @@
 # circumferece-Calculator
-
-https://github.com/Supun009/circumferece-Calculator.git
+https://supun009.github.io/circumferece-Calculator/Untitled-2.html
